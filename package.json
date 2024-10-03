@@ -4,7 +4,10 @@
   "description": "",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.93.0"
+    "vscode": "^1.91.0"
+  },
+  "scripts": {
+    "build": "vsce package"
   },
   "categories": [
     "Themes"
